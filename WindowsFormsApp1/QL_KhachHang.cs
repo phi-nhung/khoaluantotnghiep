@@ -16,16 +16,5 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-
-        private void btnThemKH_Click(object sender, EventArgs e)
-        {
-            panelThemKH.Visible = true;
-            panelThemKH.BringToFront();
-        }
-
-        private void btnHuy_Click(object sender, EventArgs e)
-        {
-            panelThemKH.Visible = false;
-        }
     }
 }

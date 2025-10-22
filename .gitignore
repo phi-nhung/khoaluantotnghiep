@@ -1,0 +1,17 @@
+# Bỏ qua thư mục hệ thống của Visual Studio
+.vs/
+*.vsidx
+*.user
+*.suo
+*.cache
+*.log
+*.db
+
+# Bỏ qua file build
+bin/
+obj/
+
+# Bỏ qua các file tạm
+*.tmp
+*.bak
+*.lock
