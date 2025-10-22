@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class QL_KhachHang : Form
+    public partial class TrangMain : Form
     {
-        public QL_KhachHang()
+        public TrangMain()
         {
             InitializeComponent();
         }
